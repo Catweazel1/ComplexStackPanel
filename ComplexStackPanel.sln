@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexStackPanel", "ComplexStackPanel\ComplexStackPanel.csproj", "{EB5C1965-D576-4360-837D-BE8C634B1495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|ARM.ActiveCfg = Debug|ARM
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|ARM.Build.0 = Debug|ARM
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|ARM.Deploy.0 = Debug|ARM
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|ARM64.Build.0 = Debug|ARM64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|x64.ActiveCfg = Debug|x64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|x64.Build.0 = Debug|x64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|x64.Deploy.0 = Debug|x64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|x86.ActiveCfg = Debug|x86
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|x86.Build.0 = Debug|x86
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Debug|x86.Deploy.0 = Debug|x86
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|ARM.ActiveCfg = Release|ARM
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|ARM.Build.0 = Release|ARM
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|ARM.Deploy.0 = Release|ARM
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|ARM64.ActiveCfg = Release|ARM64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|ARM64.Build.0 = Release|ARM64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|ARM64.Deploy.0 = Release|ARM64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|x64.ActiveCfg = Release|x64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|x64.Build.0 = Release|x64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|x64.Deploy.0 = Release|x64
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|x86.ActiveCfg = Release|x86
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|x86.Build.0 = Release|x86
+		{EB5C1965-D576-4360-837D-BE8C634B1495}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8ECFCFD-D93A-4663-8909-144B92B21B3A}
+	EndGlobalSection
+EndGlobal
